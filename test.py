@@ -1,1 +1,1 @@
-echo ("lisiy kot")
+print ("lisiy kot")
