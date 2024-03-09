@@ -1,0 +1,1 @@
+echo ("lisiy kot")
